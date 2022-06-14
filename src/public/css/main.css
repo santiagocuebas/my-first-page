@@ -1,0 +1,66 @@
+* {
+	font-family: 'Spicy Rice', Helvetica, sans-serif;
+}
+
+textarea {
+	resize: none;
+}
+
+.width {
+	width: 60%;
+}
+
+.m-width {
+	min-width: 300px;
+}
+
+.m-topbottom {
+	margin: 40px auto;
+}
+
+.m-auto {
+	margin: auto;
+}
+
+.m-right {
+	margin-right: 6px;
+}
+
+.padding {
+	padding: 5px 50px;
+}
+
+.my-fsx4 {
+	font-size: 64px;
+}
+
+.my-button {
+	background: rgb(63,117,191);
+	width: 60%;
+	margin: 20px auto;
+	padding: 15px 0;
+	font-size: 20px;
+	border: none;
+	border-radius: 10px;
+}
+
+.my-box {
+	width: 80%;
+	margin: 200px auto;
+	text-align: center;
+}
+
+.my-box h3 {
+	margin: 10px;
+	font-size: 48px;
+}
+
+.my-m-bottom {
+	margin-bottom: 5px;
+}
+
+.my-btn {
+	display: block;
+	margin: auto;
+	margin-top: 15px;
+}
