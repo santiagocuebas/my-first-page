@@ -6,6 +6,10 @@ textarea {
 	resize: none;
 }
 
+.col-md-4 {
+	margin: auto;
+}
+
 .width {
 	width: 60%;
 }
